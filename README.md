@@ -4,8 +4,8 @@
   
    
  * Los vídeos favoritos son mostrados y estan ubicados en la pagina principal 
- * En cada vídeo se muestran unos datos basicos,como nombre del video y calificacion que han sido ordenados dejando al video mas 
-   antiguo por debajo, si se selecciona el nombre de este,se muestran los siguientes datos desde una nueva pagina:
+ * En cada vídeo se muestran los datos basicos,como nombre del video y calificacion que han sido ordenados dejando al video mas 
+   antiguo por debajo, si se selecciona el nombre de algun video, este mostrara los siguientes datos desde una nueva pagina:
  -Nombre del vídeo 
  -usuario
  -red social a la que pertenecen y un rate (calificación) del video a base de calificaciones por los usuarios.
